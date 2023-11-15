@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    padding: 61px 0 54px 0;
+    align-items: center;
+    text-align: center;
+    gap: 29px;
+}
+
+.footer__contacts {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer__creator>a {
+    text-decoration: underline;
+}
